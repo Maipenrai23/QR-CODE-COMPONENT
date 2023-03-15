@@ -28,7 +28,7 @@ This
 ### Links
 
 - Solution URL: [W3shool](https://www.w3schools.com)
-- Live Site URL: [maipenrai.github](https://maipenrai23.github.io)
+- Live Site URL: [maipenrai.github.io](https://maipenrai23.github.io/QR-CODE-COMPONENT/)
 
 ## My process
 
@@ -62,7 +62,7 @@ last is i will say that thank you for reading \_\_\_
 
 ## Author
 
-- Website - [Maipenrai23.github.io](https://maipenrai23.github.io)
+- Website - [Maipenrai23.github.io](https://maipenrai23.github.io/QR-CODE-COMPONENT/)
 - Frontend Mentor - [@Maipenrai23](https://www.frontendmentor.io/profile/Maipenrai23)
 
 ## Acknowledgments
